@@ -1,6 +1,8 @@
 ## Run this script to tweet random quotes paired with
 ## random famous people from the account @quotemashup
 
+
+
 ## initialize connection to twitter app
 library(twitteR)
 consumer_key = "bN9YECN3sRJf0dCdFWG9onDfZ"
