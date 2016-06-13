@@ -10,6 +10,7 @@ consumer_secret = "l51RWtguP12wafAPErfF3fXX7IHI7sdBKpCCIRGnaW1N6lrxDL"
 access_token = "740480621319991297-K13XcAFIIzZ1S3hdY8Wv1st2lEPocYt"
 access_secret = "aAl81qPhFdadxrGfgNuugzWzk52583ExhUUPgYXWPIUDd"
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
+1
 
 library(rvest)
 library(stringr)
